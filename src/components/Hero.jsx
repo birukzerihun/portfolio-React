@@ -7,9 +7,9 @@ function Hero() {
       <section className="section-hero">
         <div className="hero">
           <div className="hero-text-box">
-            <h1 className="heading-primary">Front-End React Developer 👋🏽</h1>
+            <h1 className="heading-primary">Full-Stack Developer 👋🏽</h1>
             <p className="hero-description">
-              Hi, I'm Biruk Zerihun. A passionate Front-end React Developer
+              Hi, I'm Biruk Zerihun. A passionate Full-Stack Developer
               based in Ethiopia, Addis Ababa. 📍
             </p>
             <span>

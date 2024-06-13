@@ -13,19 +13,19 @@ function Skills() {
             </li>
             <li>
               <img
-                src="https://skillicons.dev/icons?i=js,ts"
+                src="https://skillicons.dev/icons?i=js,nodejs"
                 alt="skill-icon"
               />
             </li>
             <li>
               <img
-                src="https://skillicons.dev/icons?i=react,next"
+                src="https://skillicons.dev/icons?i=react,redux"
                 alt="skill-icon"
               />
             </li>
             <li>
               <img
-                src="https://skillicons.dev/icons?i=tailwind,scss"
+                src="https://skillicons.dev/icons?i=mongodb,express"
                 alt="skill-icon"
               />
             </li>

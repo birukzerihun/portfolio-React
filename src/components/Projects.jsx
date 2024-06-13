@@ -15,22 +15,23 @@ function Projects() {
           <div className="project-text-box">
             <h3>Eat n Split (Februwary 2023) 💵</h3>
             <p>
-              A car rental website is an online platform that allows users to
-              rent cars for personal or business use. The website provides an
-              interface for searching, comparing, and reserving cars.
+              Eat n Split is a user-friendly app designed to simplify bill
+              splitting among friends dining together. Launched in February
+              2023, it features a sleek interface and intuitive design, making
+              group dining experiences hassle-free and enjoyable.
             </p>
             <div className="tech">
               <p>React</p>
               <p>SSCS</p>
             </div>
             <div className="see">
-              <a href="#">
+              <a href="https://github.com/birukzerihun/eat-n-split">
                 <div className="watch">
                   <p>code</p>
                   <ion-icon name="logo-github"></ion-icon>
                 </div>
               </a>
-              <a href="#">
+              <a href=" https://eat-then-split.netlify.app">
                 <div className="watch">
                   <p>Live Demo</p>
                   <span>
@@ -43,24 +44,25 @@ function Projects() {
         </div>
         <div className="project">
           <div className="project-text-box">
-            <h3>Eat n Split (Februwary 2023) 💵</h3>
+            <h3>World Wise (Februwary 2023) 💵</h3>
             <p>
-              A car rental website is an online platform that allows users to
-              rent cars for personal or business use. The website provides an
-              interface for searching, comparing, and reserving cars.
+              World Wise is an app that allows users to save and document the
+              places they visit on a map. Launched in February 2023, it features
+              an intuitive interface for easy tracking and sharing of travel
+              experiences, making it perfect for avid travelers.
             </p>
             <div className="tech">
               <p>React</p>
               <p>SSCS</p>
             </div>
             <div className="see">
-              <a href="#">
+              <a href="https://github.com/birukzerihun/worldwise">
                 <div className="watch">
                   <p>code</p>
                   <ion-icon name="logo-github"></ion-icon>
                 </div>
               </a>
-              <a href="#">
+              <a href="https://the-world-wise.netlify.app">
                 <div className="watch">
                   <p>Live Demo</p>
                   <span>
@@ -92,24 +94,25 @@ function Projects() {
             </div>
           </a>
           <div className="project-text-box">
-            <h3>Eat n Split (Februwary 2023) 💵</h3>
+            <h3>Fast React Pizza (Februwary 2023) 💵</h3>
             <p>
-              A car rental website is an online platform that allows users to
-              rent cars for personal or business use. The website provides an
-              interface for searching, comparing, and reserving cars.
+              Fast React Pizza is an app that elevates the dining experience by
+              allowing users to register, explore pizza menus, and place orders
+              easily. Launched in February 2023, it features an intuitive
+              platform designed for seamless and enjoyable pizza ordering.
             </p>
             <div className="tech">
               <p>React</p>
               <p>SSCS</p>
             </div>
             <div className="see">
-              <a href="#">
+              <a href="https://github.com/birukzerihun/fast-react-pizza">
                 <div className="watch">
                   <p>code</p>
                   <ion-icon name="logo-github"></ion-icon>
                 </div>
               </a>
-              <a href="#">
+              <a href="https://the-biruk-react-pizza.netlify.app">
                 <div className="watch">
                   <p>Live Demo</p>
                   <span>
